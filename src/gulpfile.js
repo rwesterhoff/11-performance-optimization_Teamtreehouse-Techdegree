@@ -54,7 +54,7 @@ gulp.task('test', ['cleanDev', 'concatScripts', 'minifyScripts', 'compileSass', 
 
 
 gulp.task('build', ['cleanBuild', 'concatScripts', 'minifyScripts', 'compileSass', 'purifyCSS'], function() {
-    return gulp.src(['css/application.min.css', 'js/app.min.js', 'index.html', 'img/logo.gif',   'img/avatars/*-sprite.jpg',  'img/social/*-sprite.svg', 'img/photos/**/*.jpg'], { base: './' })
+    return gulp.src(['css/application.min.css', 'js/app.min.js', 'index.html', 'img/avatars/*-sprite.jpg',  'img/social/*-sprite.svg', 'img/photos/**/*.jpg'], { base: './' })
         .pipe(gulp.dest('../'));
 });
 
