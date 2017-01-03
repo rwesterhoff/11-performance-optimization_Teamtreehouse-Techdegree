@@ -631,6 +631,269 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"\/node_modules": {
+		"ft": 65536,
+		"oA": 2,
+		"oAP": "\/build\/node_modules",
+		"oF": 0
+		},
+	"\/npm-debug.log": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/npm-debug.log",
+		"oF": 0
+		},
+	"\/optimization-testing\/node_modules": {
+		"ft": 65536,
+		"oA": 2,
+		"oAP": "\/build\/optimization-testing\/node_modules",
+		"oF": 0
+		},
+	"\/optimization-testing\/package.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/optimization-testing\/package-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/optimization-testing\/public\/css\/application.min.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/optimization-testing\/public\/css\/application.min-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/optimization-testing\/public\/img\/avatars\/avatar-sprite.jpg": {
+		"ft": 16384,
+		"iS": 13370,
+		"oA": 0,
+		"oAP": "\/optimization-testing\/public\/img\/avatars\/avatar-sprite.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/optimization-testing\/public\/img\/logo.gif": {
+		"ft": 4194304,
+		"iS": 51588,
+		"oA": 0,
+		"oAP": "\/optimization-testing\/public\/img\/logo.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/optimization-testing\/public\/img\/photos\/header.jpg": {
+		"ft": 16384,
+		"iS": 138674,
+		"oA": 0,
+		"oAP": "\/optimization-testing\/public\/img\/photos\/header.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/optimization-testing\/public\/img\/photos\/photo1.jpg": {
+		"ft": 16384,
+		"iS": 74779,
+		"oA": 0,
+		"oAP": "\/optimization-testing\/public\/img\/photos\/photo1.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/optimization-testing\/public\/img\/photos\/photo10.jpg": {
+		"ft": 16384,
+		"iS": 31290,
+		"oA": 0,
+		"oAP": "\/optimization-testing\/public\/img\/photos\/photo10.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/optimization-testing\/public\/img\/photos\/photo2.jpg": {
+		"ft": 16384,
+		"iS": 39463,
+		"oA": 0,
+		"oAP": "\/optimization-testing\/public\/img\/photos\/photo2.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/optimization-testing\/public\/img\/photos\/photo3.jpg": {
+		"ft": 16384,
+		"iS": 69220,
+		"oA": 0,
+		"oAP": "\/optimization-testing\/public\/img\/photos\/photo3.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/optimization-testing\/public\/img\/photos\/photo4.jpg": {
+		"ft": 16384,
+		"iS": 29393,
+		"oA": 0,
+		"oAP": "\/optimization-testing\/public\/img\/photos\/photo4.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/optimization-testing\/public\/img\/photos\/photo5.jpg": {
+		"ft": 16384,
+		"iS": 59588,
+		"oA": 0,
+		"oAP": "\/optimization-testing\/public\/img\/photos\/photo5.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/optimization-testing\/public\/img\/photos\/photo6.jpg": {
+		"ft": 16384,
+		"iS": 51374,
+		"oA": 0,
+		"oAP": "\/optimization-testing\/public\/img\/photos\/photo6.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/optimization-testing\/public\/img\/photos\/photo7.jpg": {
+		"ft": 16384,
+		"iS": 46505,
+		"oA": 0,
+		"oAP": "\/optimization-testing\/public\/img\/photos\/photo7.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/optimization-testing\/public\/img\/photos\/photo8.jpg": {
+		"ft": 16384,
+		"iS": 46261,
+		"oA": 0,
+		"oAP": "\/optimization-testing\/public\/img\/photos\/photo8.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/optimization-testing\/public\/img\/photos\/photo9.jpg": {
+		"ft": 16384,
+		"iS": 34382,
+		"oA": 0,
+		"oAP": "\/optimization-testing\/public\/img\/photos\/photo9.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/optimization-testing\/public\/img\/photos\/thumbs\/photo1.jpg": {
+		"ft": 16384,
+		"iS": 20274,
+		"oA": 0,
+		"oAP": "\/optimization-testing\/public\/img\/photos\/thumbs\/photo1.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/optimization-testing\/public\/img\/photos\/thumbs\/photo10.jpg": {
+		"ft": 16384,
+		"iS": 13376,
+		"oA": 0,
+		"oAP": "\/optimization-testing\/public\/img\/photos\/thumbs\/photo10.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/optimization-testing\/public\/img\/photos\/thumbs\/photo2.jpg": {
+		"ft": 16384,
+		"iS": 7840,
+		"oA": 0,
+		"oAP": "\/optimization-testing\/public\/img\/photos\/thumbs\/photo2.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/optimization-testing\/public\/img\/photos\/thumbs\/photo3.jpg": {
+		"ft": 16384,
+		"iS": 13293,
+		"oA": 0,
+		"oAP": "\/optimization-testing\/public\/img\/photos\/thumbs\/photo3.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/optimization-testing\/public\/img\/photos\/thumbs\/photo4.jpg": {
+		"ft": 16384,
+		"iS": 9086,
+		"oA": 0,
+		"oAP": "\/optimization-testing\/public\/img\/photos\/thumbs\/photo4.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/optimization-testing\/public\/img\/photos\/thumbs\/photo5.jpg": {
+		"ft": 16384,
+		"iS": 10656,
+		"oA": 0,
+		"oAP": "\/optimization-testing\/public\/img\/photos\/thumbs\/photo5.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/optimization-testing\/public\/img\/photos\/thumbs\/photo6.jpg": {
+		"ft": 16384,
+		"iS": 9333,
+		"oA": 0,
+		"oAP": "\/optimization-testing\/public\/img\/photos\/thumbs\/photo6.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/optimization-testing\/public\/img\/photos\/thumbs\/photo7.jpg": {
+		"ft": 16384,
+		"iS": 9216,
+		"oA": 0,
+		"oAP": "\/optimization-testing\/public\/img\/photos\/thumbs\/photo7.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/optimization-testing\/public\/img\/photos\/thumbs\/photo8.jpg": {
+		"ft": 16384,
+		"iS": 13667,
+		"oA": 0,
+		"oAP": "\/optimization-testing\/public\/img\/photos\/thumbs\/photo8.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/optimization-testing\/public\/img\/photos\/thumbs\/photo9.jpg": {
+		"ft": 16384,
+		"iS": 10377,
+		"oA": 0,
+		"oAP": "\/optimization-testing\/public\/img\/photos\/thumbs\/photo9.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/optimization-testing\/public\/img\/social\/social-sprite.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/optimization-testing\/public\/img\/social\/social-sprite.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/optimization-testing\/public\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/optimization-testing\/public\/index.html",
+		"oF": 0
+		},
+	"\/optimization-testing\/public\/js\/app.min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 0,
+		"oAP": "\/optimization-testing\/public\/js\/min\/app.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/optimization-testing\/README.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/optimization-testing\/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"\/package.json": {
 		"ft": 524288,
 		"oA": 1,
